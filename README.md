@@ -2,7 +2,7 @@
 Config for Starship Prompt https://starship.rs/
 
 ### Show git user email
-Very useful when you're working for several organizations with difference git settings
+Very useful when you're working for several organizations with different git settings
 
 <img width="420" alt="Снимок экрана 2021-03-14 в 22 40 39" src="https://user-images.githubusercontent.com/17751886/111081842-4e0a3a80-8516-11eb-97f5-d457b79e37d1.png">
 
